@@ -1,2 +1,2 @@
-# Jogo-da-adivinha-o
+# Jogo-da-adivinhação
 Jogo de adivinhação desenvolvido em python
